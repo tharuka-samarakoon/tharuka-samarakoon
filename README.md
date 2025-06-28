@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Tharuka Samarakoon
 
-<!--
-**tharuka-samarakoon/tharuka-samarakoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IS Undergraduate @ UCSC  
+💻 Freelance Designer | 📱 Phone Shop Planner  
+🌱 Currently learning: C programming, web tech, and AI  
+🔭 Exploring: UX design, Gemini AI, and digital business  
+ 🎨 AI Artist | 🌙 Sky Lover
 
-Here are some ideas to get you started:
+⚡ Fun Fact: I love mixing creativity with technology!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:  
+- Email: www.tharuka.s2@gmai.com  
+- LinkedIn:https://www.linkedin.com/in/tharuka-samarakoon-2846ab2b8/
