@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Tharuka Samarakoon
 
 🎓 IS Undergraduate @ UCSC  
-💻 Freelance Designer | 📱 Phone Shop Planner  
+💻 Freelance Designer
 🌱 Currently learning: C programming, web tech, and AI  
 🔭 Exploring: UX design, Gemini AI, and digital business  
  🎨 AI Artist | 🌙 Sky Lover
