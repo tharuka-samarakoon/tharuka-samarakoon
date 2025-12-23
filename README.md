@@ -10,4 +10,4 @@
 
 📫 How to reach me:  
 - Email: www.tharuka.s2@gmai.com  
-- LinkedIn:https://www.linkedin.com/in/tharuka-samarakoon-2846ab2b8/
+- LinkedIn:https://www.linkedin.com/in/tharuka-samarakoon/
